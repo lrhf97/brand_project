@@ -1,0 +1,3 @@
+## extentions to ignore
+*.env
+/env_var_folder/*
