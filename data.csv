@@ -1,4 +1,5 @@
 id,created_at,location,description,username,name,verified,followers_count,following_count,tweet_count,listed_count
+id,created_at,location,description,username,name,verified,followers_count,following_count,tweet_count,listed_count
 3386288339,2015-07-21 20:02:19+00:00, ,"Husband, dad, cyclist and a F'n 🦧",DumbMoney_AMC,J,False,2,72,28,0
 14387509,2008-04-14 16:56:54+00:00,"SF, CA USA",Living at the intersection of geekery and the moving image.,frankgiraffe,frankgiraffe,False,215,376,2519,15
 33535739,2009-04-20 14:52:11+00:00,"Kernersville, NC","Slinging paints on cars for @maconisetupshop - trying to drive cars fast on @iracing
@@ -6,7 +7,110 @@ UNCC Alum",jspoon13,Jordan Spoon,False,85,606,124,0
 1418283365577461764,2021-07-22 18:55:59+00:00, ,"Fitness, Fellowship, & Faith coming to Morganton 9/25/21.  Free outdoor workouts for all men",f3morganton,f3morganton,False,22,78,2,0
 1416820910712135682,2021-07-18 18:03:36+00:00, ,,CyclingDsrpt,DSRPT cycling,False,0,47,1,0
 1268533564196478987,2020-06-04 13:24:01+00:00, ,"@UChicago polisci grad student - IR, formal theory. PGH sports and blue devil basketball. Other interests include bikes, (coffee) beans, and beats",boyd_steven_s,Steven Boyd,False,40,281,1,0
-52964262,2009-07-02 04:08:48+00:00,"Manchester, England",Caraqueño,dandng,Daniel De Nobrega,False,444,1656,7257,2
-385446082,2011-10-05 14:27:33+00:00, ,"Rider of bikes, and drinker of beer. I like to be liked, but I’m kinda dumb.",tanderson999,Timothy Anderson,False,118,757,438,1
+52964262,2009-07-02 04:08:48+00:00,"Manchester, England",Caraqueño,dandng,Daniel De Nobrega,False,444,1657,7257,2
+385446082,2011-10-05 14:27:33+00:00, ,"Rider of bikes, and drinker of beer. I like to be liked, but I’m kinda dumb.",tanderson999,Timothy Anderson,False,119,757,438,1
 877695112884633601,2017-06-22 01:09:56+00:00,"Melbourne, Victoria",Have a weakness for shoes? So do we.,velokicks,velokicks,False,294,234,333,5
 1162847621225910272,2019-08-17 22:04:22+00:00,"Denver, CO",🚴 ☕️ 🎮 🥘 📷 🪴 🥖 #adhd,wookieapproved,Wookie,False,97,210,6850,3
+1241209282474971137,2020-03-21 03:45:37+00:00,"Frederick, MD",Cycling event management & promotion (Dirty Kitten Productions) Alex & Chris Howell 🚴🏻‍♀️😺🚴🏻‍♂️ #dirtykittengravel #ridedirty,DirtyKittenGrvl,Dirty Kitten Gravel,False,12,35,5,0
+158548992,2010-06-23 00:36:17+00:00,"Toronto, Ontario",Digital-first but still love a commercial shoot with all the bells and whistles. President @findcurrency | Ads for PM Harper | Instagram 📸 dennisjmatthews,DennisJMatthews,Dennis Matthews,False,3287,3092,8233,32
+957809922267340804,2018-01-29 02:57:35+00:00, ,Group rides. Made easy. Manage or find a cycling group ride in your local area fast & easy!,chasing_watts,Chasing Watts,False,18,132,57,0
+564025989,2012-04-26 18:41:07+00:00,"Colorado, USA",Nerdy discourse on bikes and life.,TheBikeNerd_net,TheBikeNerd_net,False,4811,200,23903,103
+1339731135430049793,2020-12-18 00:45:31+00:00,on a bike,the only time I set the bar low is for limbo,Leils_on_wheels,Leila,False,14,23,33,0
+1338824937872654337,2020-12-15 12:37:27+00:00,Colorado and Arizona ,We Ride 4 is a non-profit cycling club full of active cyclist who support youth-based organizations. Visit our web site to learn more and become a member,Ride4We,WeRide4,False,20,41,37,0
+844431554,2012-09-24 22:41:40+00:00,Center of the Sun,Sun child of the Zodiac. Don’t bring any bullshit into my wheelhouse. Raised my daughters to be warriors. Raised my son to worship women.,lionhearted666,LeoHearted,False,324,1121,1796,1
+20662440,2009-02-12 08:36:48+00:00,🇬🇧 🇺🇸 🇪🇺,"Reforesting the UK @GrowingTheTrees, Building API Design tools @stoplightio, Teaching API Skills @apisyouwonthate. Bike Nomad. Boycotting Fossil-Fuels. he/him",philsturgeon,Tree Sturgeon 🔥🚴‍♂️🌳,False,20732,2697,67246,990
+4036530371,2015-10-25 04:48:25+00:00,"North Carolina, USA","#CarolinaGirl #Momof2 #oneboy #onegirl #beachlife #OccupationalTherapist #LymphedemaTherapist #MelanomaSurvivor 
+#TarHeels #UNCBBall #CarolinaPanthers",Nicollejohnson7,Nicolle johnson,False,25,530,203,0
+1304779733385740288,2020-09-12 13:51:53+00:00,"Riverdale Park, MD",,behr_end,Dan,False,25,471,74,0
+14608802,2008-05-01 01:33:17+00:00,"Chicago, USA","Director of P-20 Initiatives at @P20Network @NIULive | Previous-Teacher, Principal, Asst Supt | family-bikes-photos |  https://t.co/hxfYIj53Zy",jasonklein,Jason Klein,False,3011,4998,37017,221
+65051831,2009-08-12 14:36:31+00:00,"Flagstaff, AZ","In 27 minutes, enough solar energy strikes the Earth to meet all forms of energy usage in the world for a year.",solarphilup,Fil 🚀,False,97,1151,264,2
+17231680,2008-11-07 14:31:04+00:00,"Jacksonville, NC","Pastor, Husband of Sherree, Father to Zack, Meg, & Nate. Follower of Christ.",rwelsh,Ron Welsh,False,167,230,2758,6
+17260284,2008-11-08 22:34:55+00:00, ,"Cyclist, Prairie enthusiast.",PrairieCzar,Prairie Czar,False,2664,2340,23315,60
+460727278,2012-01-11 02:10:08+00:00,"Melbourne, Australia","Director @PeterCullenPCT, Founder Aither Pty Ltd, Founder Alluvium Consulting",chrisarnottoz,Chris Arnott,False,197,422,341,16
+274176178,2011-03-29 21:48:16+00:00,"Leicester, England",🅞🅡🅖🅐🅝🅞🅜🅔🅣🅐🅛🅛🅘🅒🅢... Lecturer in Inorganic Chemistry at @UniofLeicester @LeicesterChem,sandykilla,Sandy Kilpatrick,False,1077,3753,1759,8
+30667746,2009-04-12 15:42:22+00:00,"Richlands, NC",Software Developer. Retired Marine. Former racer. Pickle connoisseur. Husband to @ddclarkie. https://t.co/AbkJmg9XE5. My opinions are my own,gixxerblade,CangryPickleGuy.tsx,False,250,861,4410,0
+1196216527378247681,2019-11-18 00:00:28+00:00, ,"aspiring #tweetiatrician; i run & bike sometimes. @UVA 2017, @EVMSedu 2022, @AmerMedicalAssn, @MedSocietyVA, @AAPSOPT. He/Him 🌈",the_vandegraam,Matt Van de Graaf,False,1376,1031,1591,5
+14445359,2008-04-19 18:17:01+00:00,"Los Angeles, CA","Peds urologist in LA- Fellowship PD, LGBT+ representation in surgery. Views my own. Obsessive movie/TV/podcast fan. Podcast producer. 🏳️‍🌈👨🏼‍🤝‍👨🏻",scotter,"Scott Sparks, MD",False,2923,2980,7037,23
+42804778,2009-05-27 03:27:25+00:00,texas,you had to be there,kdiiiv,kdiv,False,222,72,5554,2
+1231747076498841601,2020-02-24 01:06:22+00:00, ,Married with kids. Ride @trekbikes running @shimanogravel using @wahoofitness wearing @ridgesupply socks and kit #traveltheworld #skithewest,nccyclingsurge1,nccyclingsurgeon,False,0,21,1,0
+15903747,2008-08-19 13:06:18+00:00,"Alexandria, VA","Weichert Realtors
+121 N. Pitt St. Alexandria, VA 22314
+Office - (703) 549- 8700
+Direct Line - (703) 936-7176
+Husband, Father, Trail Runner, Wino, fan of History",lrhf97,Alex St. Clair Realtor/Runner/DataScience,False,8,163,636,2
+11013712,2007-12-10 09:18:35+00:00,"Denver, CO","All things #cycling, @rodeo_labs guinea pig, #MTG obsessed, automation enthusiast",dfitzger,David Fitzgerald,False,1213,1199,45446,115
+46465264,2009-06-11 19:19:45+00:00, ,"I don't like complaining, but sometimes I have to.",amandar23,amanda,False,30,224,721,1
+45109967,2009-06-06 11:04:33+00:00, ,"Cyclist for @BorntoBikeRT, does a bit of cooking occasionally. 🇬🇧",Sleigh19_56,Sean Sleigh,False,379,1456,4331,4
+22975109,2009-03-05 20:40:16+00:00,Occupied Menunkatuck Territory,"teacher | learner | parent | student of the world | peddler of possibility | Guilford CT resident via MA, NH, VT, UT | he, him | ; | married to @mcdonoughnicole",MrMcDonough,"Will McDonough (he, him, his)",False,1247,2561,8195,45
+1109089508916518912,2019-03-22 13:48:39+00:00,"New York, USA","I'm a Systems Engineer. Passionate about Technology, Digital Marketing and Programming. Fascinated by Fashion and Makeup.",TheWorldOfSamy,The World of Samy,False,70,599,78,0
+352300878,2011-08-10 12:35:36+00:00,"Intercourse, PA",#VLSI ninja. @CvilleRacing club president. I made grilled cheese on the radiator.,RichardSerton,Patriarch But Not The Patriarchy,False,55,268,1600,0
+17478193,2008-11-19 02:45:14+00:00,eVeRywHeRe,"~ Adventurer and Chronicler of thoughts, finding my way through the vastness that is the world.... be it the WWW or that of reality and physicality?",DJ_RaNdOm_cHaOs,DJ_RaNdOm_cHaOs,False,429,5001,2249,4
+1045111502640992257,2018-09-27 00:42:54+00:00,"Jackson, MS",Committed to building cycling in our communities near and far. @manukasport @Capitalortho1 @corona @mecuanywhere @hirobelLLC IG: VelovitRacing,VelovitRacing,Velovit Racing,False,39,388,141,0
+775815961769377792,2016-09-13 21:58:34+00:00,"Hockessin, DE",,denise_matheny,Denise Matheny,False,13,62,5,0
+2351714693,2014-02-19 02:09:53+00:00, ,,eliza_jordan2,Elizabeth Jordan,False,31,85,3,1
+6527892,2007-06-02 19:25:13+00:00,"Wilmington, NC, United States","Husband, Father of 3, Pastor of Lifepoint Church, mountain biker, apple addict, crossfitter, sneakerhead, and Friend of God!",jeffkapusta,Jeff Kapusta,False,2516,204,21436,143
+16220644,2008-09-10 13:34:14+00:00,"Pittsburgh, PA",Go to our Facebook and win a swanky prize: https://t.co/sRwfULT8Qe,DirtRag,Dirt Rag Magazine,False,25208,1138,3857,600
+21598550,2009-02-22 21:09:00+00:00,West Bloomfield,"Detroit, Michigan State, THFC, Music. Probably really mostly dogs if we’re being honest.",djbsquared,Jordan Weiss,False,334,987,12942,14
+289427021,2011-04-28 16:42:38+00:00,italy,Pedalo cercando di non farmi schiacciare. Non sempre è una metafora.,beppepiras,giuseppe piras,False,1895,2232,6488,73
+1079123386431811584,2018-12-29 21:13:59+00:00,South O ,DC / South O / NY 🐱✌️⛰🍜🗺🌯👟🥃 🚲,_norman_d,norman_d,False,45,527,5787,0
+27884871,2009-03-31 14:50:59+00:00, ,F1 Engineer,rik_perry,Rik Perry,False,358,579,23157,0
+767048221822742528,2016-08-20 17:18:41+00:00,On a bike,"2021 Welsh 10mTTChamp | 2013 Silver RTTC Circuit Series | 2018/2019 Welsh Womens 3 Distance 25, 50 & 100m BAR Champ | Womens Team Comp Record 2018 25m TT",velosistas,Andrea Parish,False,117,433,991,0
+950411953587019777,2018-01-08 17:00:42+00:00,"Raleigh, NC",An out of shape fat guys journey to race in the Croatan Buck Fifty.,GrindGravel,The Gravel Grind,False,31,119,69,1
+14728079,2008-05-10 21:26:28+00:00,"Simi Valley, CA",☕️ | 🚵‍♂️ | 📷 |🍺 I ride bikes! ❤️ @TriBeccaTO aka #bikinisherpa,Quadrathon,Stuart,False,1624,2492,26272,157
+1054756172568367104,2018-10-23 15:27:22+00:00,"Surfside Beach, SC",,TheSaltyCog,The Salty Cog,False,17,212,73,0
+19364203,2009-01-22 21:58:12+00:00,"Bowie, MD","Life Begins Just Outside Your Comfort Zone. Husband, Endurance Junkie, Mobility Planner,  Business Owner - Send It!  #rouleur #IFB",iainbanks1,Iain Banks,False,385,659,4381,14
+1052176363787100162,2018-10-16 12:36:08+00:00, ,We are a beer and bicycle social club.,velopigs,Velopigs B.B.S.C,False,6,64,7,0
+220700224,2010-11-28 15:50:40+00:00,The North East,Bike pedlar,jaydee197002,Jaydee 88,False,126,842,1374,13
+190219859,2010-09-13 11:47:48+00:00,"Manchester, UK","BA Hons MPhil Criminology
+Ironman Manc Jew atheist
+Bukowski, Zevon, Young, VanZandt
+SheffHallam/Cambridge
+MCFC ASMR BlackDog Epilepsy OWS
+🇮🇱🇬🇧🇧🇷🏊‍♂️🚴‍♂️",lolgrant7,Lol Grant #NoSafeSpaceForJewHate,False,1047,3733,17659,28
+66628997,2009-08-18 08:08:42+00:00,London,"Agent, Lawyer, Husband, Father, Dog Owner",andrewmcquaid,Andrew McQuaid,False,4999,3900,4093,89
+445456354,2011-12-24 12:27:35+00:00, ,,Tomlovesjam,Tom Reid,False,84,294,1741,1
+478440256,2012-01-30 08:50:06+00:00,Hamburg,"An Aspiring Triathlete, and training for Ironman Hamburg - 29 August 2021.",milkandalamb,Alastair Lamb 🇩🇪 🇬🇧,False,263,1932,844,3
+365073003,2011-08-30 20:27:38+00:00,"Elgin, Scotland",,morlichbck,John Main,False,116,823,5052,5
+2148843899,2013-10-22 20:07:57+00:00,Bingley Yorkshire. ,"Climbing Mountains and turning around 
+.",amdrewmyers,lycra lout,False,61,401,628,1
+113309824,2010-02-11 10:28:14+00:00, ,,Ronson21,Ronson,False,7,188,4,0
+1559153605,2013-06-30 23:10:28+00:00,Heilbronn,,berndludwig84,bdl,False,1,65,9,0
+741171390,2012-08-06 18:32:08+00:00,Virginia,Virginia Cyclocross Series information,VirginiaCX,VACX,False,230,216,225,2
+182815210,2010-08-25 13:24:28+00:00, ,,Chopper_83,Shane Lawlor,False,177,2144,433,3
+304006148,2011-05-23 19:36:55+00:00, ,,dannytomblin,daniel tomblin,False,65,766,230,2
+179451134,2010-08-17 09:32:07+00:00,"knutsford, Cheshire","father, husband, CEO, raised over 10,000 donations for Give Blood & DKMS-it is in us all to share. Rode all of The Tour De France for Cure Leukaemia #Tour21 .",r8uge,Guy Wolstencroft,False,686,1711,9862,16
+295565377,2011-05-09 08:27:40+00:00,sheffield,rides a bike.,nealhunt123,Neal Hunt,False,532,1576,6430,10
+16672304,2008-10-09 19:42:12+00:00,"Pennsylvania, USA",Former boss of USGPcx. Current Exec. Director at The Valley Preferred Cycling Center (T-Town) Ocean lover. Adventure seeker. All opinions are strictly my own.,joanhan,joan hanscom,False,2254,2760,11870,74
+146578554,2010-05-21 20:11:28+00:00,"ÜT: 51.876235,-2.000888",Odd & weird. Wigan rugby league supporter. Love snow and XC ski-ing.,haiggy37,haiggy,False,221,821,5550,6
+205436448,2010-10-20 21:57:44+00:00,"Grand Blanc,  MI",,JonathanDWass,Jonathan D Wass,False,72,336,577,3
+14886160,2008-05-23 20:31:59+00:00, ,"Author of What Goes Around (Faber, 2016) and Where There’s A Will (Profile, 2019). Lead Cyclist for @rideleloop. Usually hungry. She/her.",emilychappell,Emily Chappell,False,10116,2607,9858,184
+2232381649,2013-12-06 03:22:26+00:00, ,"Family. 50K: X2; 26.2: X8; 30K: X3; 13.1: X11. Amb: @nuunhydration, @HoneyStinger, @PROcompression, @squirrelsnutbut, @AltraRunning, @ROADiD, #teamULTRA",wortholomew,wortholomew,False,1496,2714,15944,49
+22509639,2009-03-02 17:39:40+00:00,London,"Cyclist, football fan, music lover, family man.",fleetyfoot,Simon Runton,False,52,583,157,4
+23825545,2009-03-11 20:39:55+00:00,"Phoenix, AZ",You must be this tall to read this feed.,Jessieiscold,"Dr. Jessie Duppler, PT DPT",False,329,534,9996,13
+572636690,2012-05-06 13:39:13+00:00,"Seattle, WA","Father, dreamer, athlete, entrepreneur,  pretend musician. @findempathie @bikefit",DamonbWyatt,Damon Wyatt,False,41,361,122,0
+995066920096460801,2018-05-11 22:23:35+00:00, ,"long toothed health care worker, self determination and sun.",scattercushon,Richard,False,43,803,133,0
+959548104893583360,2018-02-02 22:04:30+00:00,On a bike,Top 0.1% on https://t.co/j5xrCT922H,bibtights,Reign of Taaramae,False,179,1739,1194,1
+218008767,2010-11-21 04:42:57+00:00,Staffordshire,"Love cycling,family,holidays,hate being bored,cycling,other activities are available!!!!",okeydokey79,matt wild,False,312,978,5571,11
+3071160995,2015-03-04 23:31:54+00:00, ,,andybraddock12,Andy Braddock,False,24,320,466,0
+104137127,2010-01-12 11:28:11+00:00,N 51°24' 0'' / E 0°3' 0'',,apaggett,Alan Paggett ⚒ ⚒,False,70,1298,78,0
+728415826047553536,2016-05-06 02:47:21+00:00,Shropshire,"Healthy workplace advocate, passionate about 🚴‍♀️, health behaviour, penguins & swans! UCI 2017 Amateur World TT -🥈Opinions my own. Personal account.",FionaSPrew,Fiona Prew,False,558,2391,1331,17
+365319573,2011-08-31 07:07:24+00:00,West Yorks,,andy_wilson_71,Andy Wilson,False,386,1381,1572,5
+275935097,2011-04-02 09:09:54+00:00,"Birdsall, Malton, N Yorks","Dad to Jessica, cycling addict",jon_turnbull,JT,False,148,1002,2322,2
+513710703,2012-03-03 23:14:55+00:00,México D.F.,"Cabrón, pero de buen corazón.",OjcEsquivel,ElChicasNaguas,False,164,1172,608,1
+229918357,2010-12-23 18:10:48+00:00,Megico Maxico,"Incapaz de conducir con sandalias, lavar cubiertos y comer elotes",memochucho,MemoChucho,False,199,375,2506,7
+2438643999,2014-03-26 21:42:29+00:00,"London, England",Film Colourist / NZ Born / Bikes / Coffee / He / Him / Dad,natjcooke,Nathaniel Cooke,False,49,377,764,0
+140885345,2010-05-06 16:23:15+00:00,UK,"Still looking for the orange one                                     -----------
+Forget Everything And Remember",NewellyNewell,NewellyNewell ◣ ◢,False,170,1140,2232,3
+81233624,2009-10-09 23:51:23+00:00,"Greensboro, NC",Assistant AD for Health and Sports Performance at UNCG while riding a bike to help find a cure for MS. #BikeMS #TeamMcCloy2019 #RSArsenal #TeamNuun #RidePactimo,jaymccloy,Jay McCloy,False,224,213,3221,2
+15903892,2008-08-19 13:20:30+00:00,"Gainesville, VA","Husband, Father, Programmer, Marine, Crossfitter, Cyclist, Runner, Hiker.",peteblair,Pete Blair,False,171,289,2578,9
+317451804,2011-06-14 23:34:02+00:00,atlanta,game on!,scantonis,Steve Cantonis,False,47,87,138,2
+2469035843,2014-04-08 07:45:42+00:00,"Shifnal, England",Rugby player + Air Ambulance = Retired. Cycling and running going better to date 😜,damobartlett6,Damian Bartlett,False,127,771,356,1
+26535991,2009-03-25 16:53:11+00:00,"Roanoke, VA",🇺🇸Husband-Dad-Brother-Believer Mtn. Bike & Triathlon Enthusiast. 40+ feelin’ like 20-,mrpwalton28,mrpwalton28,False,246,283,2343,4
+58950708,2009-07-21 22:52:53+00:00, ,,zasadri,Adriana Azpilcueta,False,185,916,10879,13
+313634460,2011-06-08 23:50:43+00:00,Mexico,"""A Y U N A N D O""",solohosco,Abdiel,False,240,979,6088,0
+25440153,2009-03-20 02:24:59+00:00, ,"Landscape architect, bicycle advocate, home brewer, road cyclist, explorer of life",kenallenray,Ken Ray,False,230,569,395,10
+242476589,2011-01-24 21:44:45+00:00,"Winston-Salem, NC",,mockorangebikes,Mock Orange Bikes,False,713,610,3080,26
+791291562940518400,2016-10-26 14:53:04+00:00,Irvine California USA,"Lazer Sport North America
+Best Fit - Guaranteed or your money back!",LazerSportNA,Lazer Sport North America,False,515,2786,1217,5
+970465593588625408,2018-03-05 01:06:42+00:00, ,Husband to Carrie...Dad to Gabe...HOPE follower...cyclist...buddy...,ChrisGasche,Chris Gasche,False,16,98,15,0
+887282412,2012-10-17 18:00:54+00:00,"Morehead City, NC","Fugly ginger that loves family, friends, and big adventures!",bryanTimbrook,Bryan Timbrook or Denver(F3),False,11,44,32,0
