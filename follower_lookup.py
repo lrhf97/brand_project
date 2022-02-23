@@ -17,28 +17,25 @@ load_dotenv(env_path)
 bearer_token = os.getenv("BEARER_TOKEN")
 
 
-def create_url():
-    # Replace with user ID below
+def create_url(max_results=50):
     user_id = 3413455348
-    
+    search_url = "https://api.twitter.com/2/users/{}/followers?max_results={}".format(user_id,max_results)
 
-
-    return "https://api.twitter.com/2/users/{}/followers?max_results=10".format(user_id)
-
-def get_params():
-    return {"user.fields": "username"}
+    params ={'tweet.fields': 'id,text,author_id,in_reply_to_user_id,geo,conversation_id,created_at,lang,public_metrics,referenced_tweets,reply_settings,source',
+                    'user.fields': 'id,name,username,created_at,description,public_metrics,verified',
+                    'next_token': {}}
+    return (search_url, params)
 
 
 def bearer_oauth(r):
-    """
-    Method required by bearer token authentication.
-    """
 
     r.headers["Authorization"] = f"Bearer {bearer_token}"
     r.headers["User-Agent"] = "v2FollowersLookupPython"
     return r
 
-def connect_to_endpoint(url, params):
+
+def connect_to_endpoint(url, params, next_token=None):
+    params['pagination_token'] = next_token # param object recieved form the create_url function
     response = requests.request("GET", url, auth=bearer_oauth, params=params)
     print(response.status_code)
     if response.status_code != 200:
@@ -48,14 +45,3 @@ def connect_to_endpoint(url, params):
             )
         )
     return response.json()
-
-
-def main():
-    url = create_url()
-    params = get_params()
-    json_response = connect_to_endpoint(url, params)
-    print(json.dumps(json_response, indent=4, sort_keys=True))
-
-
-if __name__ == "__main__":
-    main() 
