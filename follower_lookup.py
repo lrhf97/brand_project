@@ -93,7 +93,10 @@ def append_to_csv(json_response, fileName):
             location = " "
 
         # 4. description
-        description = tweet['description']
+        if ('description' in tweet):
+            description = tweet['description']
+        else:
+            description = " "
 
         # # 5. names
         username = tweet['username']
