@@ -25,6 +25,7 @@ bearer_token = os.getenv("BEARER_TOKEN")
 # csv_to_file = "data/rs_fr_list.csv"
 # ridge_supply_id = 3413455348
 
+# Here I am reading the top 5 follower list and picking the first 2 -> [0:2] so Skratch and Ted King
 df = pd.read_csv('data/top5followers.csv')
 test_id = df['id'][0]
 
