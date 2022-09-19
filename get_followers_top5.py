@@ -137,8 +137,8 @@ for id in df['id'][0:2]:
     # Inputs
     total_followers = 0
     count = 0 # Counting followers per time period
-    max_count = 200 # Max followers
-    max_results = 50
+    max_count = 500 # Max followers
+    max_results = 100
     flag = True
     next_token= None
     params = url[1]
