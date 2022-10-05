@@ -127,7 +127,7 @@ def append_to_csv(json_response, fileName):
 # Inputs
 total_followers = 0
 count = 0 # Counting followers per time period
-max_count = 350 # Max followers
+max_count = 150 # Max followers
 max_results = 50
 flag = True
 next_token= None
